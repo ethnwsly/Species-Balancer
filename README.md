@@ -1,7 +1,6 @@
 # Species-Balancer
 #
 # Author: Ethan Chen
-# Contact email: ethanwc2@illinois.edu
 # California State University Fullerton
 # Nikolaidis Lab
 # Last Updated: May 31, 2018
