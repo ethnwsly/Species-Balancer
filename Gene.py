@@ -1,7 +1,6 @@
 # Gene.py
 #
 # Author: Ethan Chen
-# Contact email: ethanwc2@illinois.edu
 # California State University Fullerton
 # Nikolaidis Lab
 # Last Updated: May 2018
